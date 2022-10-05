@@ -1,3 +1,7 @@
+:root {
+	--clr-primary-400: black;
+}
+
 .container {
 	width: min(650px, 100%);
 	margin-inline: auto;
@@ -5,7 +9,7 @@
 }
 
 .heading {
-	color: rebeccapurple;
+	color: var(--clr-primary-400);
 }
 
 .nav-links {
@@ -31,6 +35,7 @@
 
 .site-title > a {
 	text-decoration: none;
+	color: var(--clr-primary-400);
 }
 
 .site-title > a:hover {
