@@ -1,7 +1,7 @@
 module.exports = {
 	siteMetadata: {
-		title: `Gwen's Blog`,
-		siteUrl: `https://www.yourdomain.tld`,
+		title: `ABC Blog`,
+		siteUrl: `https://gmagnenat.co`,
 	},
 	plugins: ['gatsby-plugin-image', 'gatsby-plugin-sharp'],
 };
