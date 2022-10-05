@@ -28,3 +28,11 @@
 	font-weight: 700;
 	margin: 3rem 0;
 }
+
+.site-title > a {
+	text-decoration: none;
+}
+
+.site-title > a:hover {
+	opacity: 0.8;
+}
